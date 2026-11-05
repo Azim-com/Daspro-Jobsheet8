@@ -10,7 +10,7 @@ public class Rectangle01 {
 
         for (int i = 1; i <= baris; i++) {
             for (int j = 1; j <= kolom; j++) {
-                System.err.print("*");
+                System.err.print("#");
             }
             System.out.println();
         }
